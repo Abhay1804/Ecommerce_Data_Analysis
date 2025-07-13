@@ -1,0 +1,1 @@
+Analyzed Kaggle's Target ecommerce dataset using MySQL and Python. Uploaded CSVs via Python script, then performed insightful data exploration in Jupyter Notebook through SQL queries and visualizations to uncover customer and sales trends.
